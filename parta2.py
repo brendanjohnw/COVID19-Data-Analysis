@@ -17,7 +17,7 @@ plt.grid(True)
 plt.savefig('scatter-a.png')
 plt.show()
 
-
+ 
 
 
 my_plot = plt.scatter(loc_cfr_nc.iloc[:,2],loc_cfr_nc.iloc[:,1],s = 10,

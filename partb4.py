@@ -21,7 +21,7 @@ if __name__ == "__main__":
     
     for i, arg in enumerate(sys.argv):
         keyword_list.append(arg)
-
+ 
 keyword_list = keyword_list[1:]
 
 path = '/home/jovyan/assignment-1-brendanjohnw/cricket/'

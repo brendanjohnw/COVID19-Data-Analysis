@@ -17,7 +17,7 @@ import math
 #nltk.download('punkt')
 #nltk.download('stopwords')
 # from week 3 example
-
+ 
 '''Data Cleaning steps:
 - Remove Spaces
 - Remove Punctuation

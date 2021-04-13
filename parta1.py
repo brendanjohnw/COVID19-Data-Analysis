@@ -23,4 +23,4 @@ grouped_covid.insert(2,'case_fatality_rate',case_fatality_rate, allow_duplicates
 grouped_covid = grouped_covid.loc[grouped_covid['case_fatality_rate']>0]
 print(grouped_covid.head())
 
-grouped_covid.to_csv(r'owid-covid-data-2020-monthly.csv', index = False)
+grouped_covid.to_csv(r'owid-covid-data-2020-monthly.csv', index = False) 

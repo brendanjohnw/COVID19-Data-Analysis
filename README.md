@@ -22,4 +22,4 @@ Dependencies:
 
 Instructions for partb5.py
 
-Comment out lines 17 and 18 if the punctuation and stopword libraries are not installed
+Comment out lines 17 and 18 if the punctuation and stopword libraries are not installed 
