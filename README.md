@@ -20,6 +20,6 @@ Dependencies:
 - COMP10001 Grok worksheets (for recap on python basics)
 - python re library documentation: https://docs.python.org/3/library/re.html
 
-Instructions for partb5.py
+Instructions for partb5.py:
 
 Comment out lines 17 and 18 if the punctuation and stopword libraries are not installed 
